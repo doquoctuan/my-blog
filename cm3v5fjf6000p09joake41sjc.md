@@ -1,5 +1,5 @@
 ---
-title: "SSA - C03 Certificate: Database in AWS"
+title: "SSA - C03 Certification: Database in AWS"
 datePublished: Sun Nov 24 2024 05:18:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm3v5fjf6000p09joake41sjc
 slug: ssa-c03-certification-database-in-aws
