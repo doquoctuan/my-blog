@@ -1,5 +1,5 @@
 ---
-title: "SSA - C03 Certification: Containers on AWS"
+title: "SAA - C03 Certification: Containers on AWS"
 datePublished: Thu Nov 21 2024 03:46:05 GMT+0000 (Coordinated Universal Time)
 cuid: cm3qrsok1000508l4dheh4va5
 slug: ssa-c03-certification-containers-on-aws
