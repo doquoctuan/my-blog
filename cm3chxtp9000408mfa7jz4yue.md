@@ -1,8 +1,8 @@
 ---
-title: "SSA-C03 Certification: RDS, Aurora and ElastiCache"
+title: "SAA-C03 Certification: RDS, Aurora and ElastiCache"
 datePublished: Mon Nov 11 2024 04:01:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm3chxtp9000408mfa7jz4yue
-slug: ssa-c03-certification-rds-aurora-and-elasticache
+slug: saa-c03-certification-rds-aurora-and-elasticache
 tags: aws
 
 ---
