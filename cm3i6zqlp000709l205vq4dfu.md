@@ -1,5 +1,5 @@
 ---
-title: "SSA - C03 Certification: S3"
+title: "SAA - C03 Certification: S3"
 datePublished: Fri Nov 15 2024 03:41:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm3i6zqlp000709l205vq4dfu
 slug: ssa-c03-certification-s3
