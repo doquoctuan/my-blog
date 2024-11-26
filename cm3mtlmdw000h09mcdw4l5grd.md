@@ -1,5 +1,5 @@
 ---
-title: "SSA - C03 Certification: Storage Extras"
+title: "SAA - C03 Certification: Storage Extras"
 datePublished: Mon Nov 18 2024 09:25:30 GMT+0000 (Coordinated Universal Time)
 cuid: cm3mtlmdw000h09mcdw4l5grd
 slug: ssa-c03-certification-storage-extras
