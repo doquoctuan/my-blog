@@ -1,8 +1,8 @@
 ---
-title: "SSA-C03 Certification: Route 53"
+title: "SAA-C03 Certification: Route 53"
 datePublished: Tue Nov 12 2024 07:44:14 GMT+0000 (Coordinated Universal Time)
 cuid: cm3e5c9tz000309jxh83sf1vn
-slug: ssa-c03-certification-route-53
+slug: saa-c03-certification-route-53
 tags: aws
 
 ---
