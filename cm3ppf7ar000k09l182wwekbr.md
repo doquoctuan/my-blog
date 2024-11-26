@@ -1,5 +1,5 @@
 ---
-title: "SSA - C03 Certification: SQS, SNS, Kinesis"
+title: "SAA - C03 Certification: SQS, SNS, Kinesis"
 datePublished: Wed Nov 20 2024 09:51:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm3ppf7ar000k09l182wwekbr
 slug: ssa-c03-certification-sqs-sns-kinesis
