@@ -1,5 +1,5 @@
 ---
-title: "SSA - C03 Certification: CloudFront"
+title: "SAA - C03 Certification: CloudFront"
 datePublished: Mon Nov 18 2024 04:15:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm3mijija000l09mkfydf7jco
 slug: ssa-c03-certification-cloudfront
