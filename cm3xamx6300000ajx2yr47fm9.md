@@ -1,8 +1,8 @@
 ---
-title: "SSA - C03 Certification: Machine Learning"
+title: "SAA - C03 Certification: Machine Learning"
 datePublished: Mon Nov 25 2024 17:20:06 GMT+0000 (Coordinated Universal Time)
 cuid: cm3xamx6300000ajx2yr47fm9
-slug: ssa-c03-certification-machine-learning
+slug: saa-c03-certification-machine-learning
 tags: aws
 
 ---
