@@ -1,8 +1,8 @@
 ---
-title: "SSA - C03 Certification: Serverless"
+title: "SAA - C03 Certification: Serverless"
 datePublished: Fri Nov 22 2024 17:14:10 GMT+0000 (Coordinated Universal Time)
 cuid: cm3t03qpy000209l2epc93mxj
-slug: ssa-c03-certification-serverless
+slug: saa-c03-certification-serverless
 tags: aws
 
 ---
