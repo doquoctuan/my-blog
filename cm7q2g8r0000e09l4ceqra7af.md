@@ -21,8 +21,16 @@ FILE_PATH="$BACKUP_DIR/$FILE_NAME"
 # S3 Bucket
 S3_BUCKET="s3://your-bucket-name"
 
+# PostgreSQL
+PG_HOST=localhost
+PG_PORT=5432
+PG_USERNAME=postgre
+PG_PASSWORD=<PGPASSWORD>
+DB_NAME=postgres
+DB_SCHEMA_NAME=public
+
 # Execute a database backup leveraging Docker and the `pg_dump` utility.
-docker run --rm -v "$BACKUP_DIR":/temp_backup --user root postgres bash -c "PGPASSWORD='PGPASSWORD' pg_dump --verbose --host=<PG_HOST> --port=<PG_PORT> --username=<PG_USERNAME> --format=t --encoding=UTF-8 --file /temp_backup/$FILE_NAME -n '<DB_SCHEMA_NAME>' <DB_NAME>"
+docker run --rm -v "$BACKUP_DIR":/temp_backup --user root postgres bash -c "PGPASSWORD=$PGPASSWORD pg_dump --verbose --host=$PG_HOST --port=$PG_PORT --username=$PG_USERNAME --format=t --encoding=UTF-8 --file /temp_backup/$FILE_NAME -n $DB_SCHEMA_NAME $DB_NAME"
 
 # Checking the file's successful creation, then updating it in S3.
 if [ -f "$FILE_PATH" ]; then
